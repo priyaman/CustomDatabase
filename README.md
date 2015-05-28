@@ -1,6 +1,7 @@
 # CustomDatabase
-RadicalDB 
-An Optimized SPJUA Query Evaluatr,
-Works in Low memory systems by efficiently partitioning the input.
+RadicalDB\n 
+An Optimized SPJUA Query Evaluator, \n
+Designed for low memory systems. \n
+
 
 
